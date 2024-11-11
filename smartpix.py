@@ -38,3 +38,4 @@ html = driver.page_source
 
 with open('smartprix.html','w',encoding='utf-8') as f:
     f.write(html)
+
